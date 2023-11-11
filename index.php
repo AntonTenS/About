@@ -6,7 +6,8 @@
     <title>Document</title>
   </head>
   <body>
-    <h1>Hello everyone!!!</h1>
+    <?php $a = 10  ?>
+    <h1>Hello everyone!!! <?php  echo $a ?></h1>
   </body>
 </html>
 
